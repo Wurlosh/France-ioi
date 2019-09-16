@@ -39,7 +39,7 @@ int main()
    while(Check())
    {
       ans++;
-      Lisage();
+      Lissage();
    }
    cout<<ans<<endl;
    return 0;
